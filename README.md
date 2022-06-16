@@ -170,10 +170,3 @@ Error: malloc failed
 ```
 Followed by a new line, and exit with status EXIT_FAILURE.
 We used malloc and free and are not allowed to use any other function from man malloc (realloc, calloc, malloc)
-
-## AUTHORS
-
-#### KIPRONOH VINCENT
-
-#### VALERIE-JERONO
-
